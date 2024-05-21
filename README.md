@@ -1,1 +1,3 @@
-# desenvolve-python-basico
+Projeto Desenvolve Itabira-MG
+Python Básico
+PDITA085
