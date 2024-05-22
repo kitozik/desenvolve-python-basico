@@ -1,0 +1,8 @@
+﻿Solução:
+
+
+1. Leia e armazene o número n que vai se multiplicado por 9  #entrada
+2. Subtraia n-1 e armazene como o primeiro dígito n1 #processamento
+3. Subtraia 10-n e armazene como o primeiro dígito n2 #processamento
+4. Faça (n*10) + n1 e armazene como resultado final r #processamento
+5. Mostre r e encerre o programa #saída
